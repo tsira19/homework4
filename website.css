@@ -1,0 +1,84 @@
+@font-face {
+    font-family:'hyperlegible-bold' ;
+    src: url(atkinson-hyperlegible-bold-102-webfont\ \(1\).woff2);
+}
+@font-face {
+    font-family: 'hyperlegible-regular';
+    src: url(atkinson-hyperlegible-regular-102-webfont\ \(1\).woff2);
+}
+body{
+    
+}
+.card_1 h2{
+    font-family:'hyperlegible-bold' ;
+    font-size:40px;
+    color:#1c2334;
+    
+}
+.card_1 p{
+    font-family:'hyperlegible-regular' ;
+    font-size:x-large;
+    color:  #1c2334;  
+}
+.container{
+    display: flex;
+}
+.card_2{
+    background-color: #e5bf55;
+    height: 250px;   
+}
+.card_2 p{
+    color: #1c2334;
+    font-size: 20px;
+}
+.card_2 h1{
+    color: #1c2334;
+    font-family: 'hyperlegible-bold';
+}
+.button1{
+    background-color:#1c2334;
+    border: none;
+    border-radius: 18px; 
+    font-size: large;
+    padding: 8px;
+    border: 1px solid #f285ac;
+    color: white;
+}
+.button2{
+    background-color: #e5bf55;
+    border-color: #1c2334;
+    border-radius: 18px;
+    font-size: large;
+    padding: 8px;
+}
+.card_3 {
+    background-color:#f6e5bd;
+    font-size: large;
+    height: 150px;
+
+}
+.img{
+    margin-left:auto;
+    margin-right: auto;
+}
+.card{
+    width:1366px;
+    background-color: #f3eee4;
+}  
+a{
+    margin-left: 40px;
+}
+span{
+    color:#bb1450;
+    font-size: 25px;
+}
+
+.detail{
+    margin-left: 7%;
+}
+.footer{
+    
+ padding-top:4%;
+}
+
+
